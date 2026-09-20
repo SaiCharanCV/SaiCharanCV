@@ -135,8 +135,8 @@ Advanced Agentic AI Architectures · Autonomous AI Workflows · Multi-Agent Orch
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SaiCharanCV&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaiCharanCV&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiCharanCV&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanCV&layout=compact&hide_border=true)
 
 </div>
 
